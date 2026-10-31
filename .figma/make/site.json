@@ -1,0 +1,10 @@
+{
+  "description": "Track personal spending, income, budgets, and savings in one polished finance app, with clear analytics to help you manage money and reach your goals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
